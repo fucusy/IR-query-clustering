@@ -1,0 +1,8 @@
+# ignore IDE auto-gen files
+.idea
+
+# ignore compiled python files *.pyc
+*.pyc
+
+# ignore log files
+*.log
