@@ -19,7 +19,7 @@ you should know some basic knowledge of set, and union-find data structure.
 
 Test data
 =======
-search log from [data lab of sogou.com](http://www.sogou.com/labs/dl/q-e.html).
+sogou.com search log of June 2008 from [data lab of sogou.com](http://www.sogou.com/labs/dl/q-e.html).
 extract query url pair from completed data. got 863k pairs data. and sorted by url, take first 10k pairs
 as test data. because it costs too much time when adopt all of query and url pairs. 
 
